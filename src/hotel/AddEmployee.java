@@ -35,8 +35,8 @@ public class AddEmployee extends JFrame{ //Third Frame
 			
             JButton Next = new JButton("SAVE");
             Next.setBounds(200, 420, 150, 30);
-            Next.setBackground(Color.BLACK);
-            Next.setForeground(Color.WHITE);
+            Next.setBackground(Color.WHITE);
+            Next.setForeground(Color.BLACK);
             add(Next);
 			
             JLabel Pnrno = new JLabel("AGE");
